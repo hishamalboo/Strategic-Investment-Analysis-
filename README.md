@@ -28,12 +28,15 @@ The primary objectives of this report are to:
 business operations, assessing its impact through scalable,
 flexible, and cost-effective solutions for managing data,
 applications, and services.
+
 • Identify and analyze the dominant global cloud service
 providers, evaluating their infrastructure breadth, service
 innovation, and competitive market share.
+
 • Profile the competitive advantages of these market leaders,
 including AWS’s broad services and global infrastructure,
 and Microsoft’s enterprise integration and AI investments.
+
 • Problem statement : How can we develop statistical models
 to analyze the volatility of daily stock returns for leading
 cloud companies, thereby providing a dynamic
