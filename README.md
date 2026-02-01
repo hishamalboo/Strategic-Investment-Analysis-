@@ -44,6 +44,8 @@ understanding of their financial risk to drive strategic
 investment decisions?
 
 
+<img width="1125" height="1129" alt="image" src="https://github.com/user-attachments/assets/930290d0-5a95-46a4-a5ad-be0fea54d4e2" />
+
 
 **Strategic Proposals (Strategic Investment Scenarios):**
 Based on volatility diagnostics and cloud market dominance, we propose:
